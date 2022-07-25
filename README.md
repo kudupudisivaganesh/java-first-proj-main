@@ -1,1 +1,1 @@
-# java-first-proj-main
+# java-first-proj
